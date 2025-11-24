@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.0)
+cmake_minimum_required(VERSION 3.26)
 project(Trabalho_SO_TAXI C)
 
 set(CMAKE_C_STANDARD 11)
