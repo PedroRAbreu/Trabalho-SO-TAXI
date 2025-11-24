@@ -9,6 +9,7 @@ add_executable(Trabalho_SO_TAXI
         Cliente.c
         Cliente.h
         Controlador.c
+        utils.h
         Controlador.h
         main.c
         makefile.c
