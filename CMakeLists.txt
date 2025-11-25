@@ -7,10 +7,9 @@ include_directories(.)
 
 add_executable(Trabalho_SO_TAXI
         Cliente.c
-        Cliente.h
         Controlador.c
-        Controlador.h
+        utils.h
         main.c
-        makefile.c
+        makefile
         Veiculo.c
-        Veiculo.h)
+)
